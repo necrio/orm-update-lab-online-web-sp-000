@@ -57,7 +57,8 @@ end
     self.new(id, name, grade)
   end 
   
-  def self.find_by_name
+  def self.find_by_name(name)
+    
     
     
 
