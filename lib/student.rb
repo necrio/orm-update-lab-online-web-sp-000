@@ -6,7 +6,7 @@ class Student
   
   def initialize(name, id= nil, grade)
     @name = name
-    @grade = 
+    @grade = grade
     @id = id
   end
   
