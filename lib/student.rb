@@ -26,7 +26,7 @@ class Student
   end
   
   def save
-    self.id
+   if  self.id
     self.update
   end
   
